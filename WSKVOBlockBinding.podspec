@@ -6,5 +6,5 @@ Pod::Spec.new do |s|
   s.description  'Use blocks to observe Objective-C properties using KVO'
   s.homepage     'https://github.com/rayh/kvo-block-binding'
   s.source       "https://github.com/speianu/kvo-block-binding.git"
-  s.files        Dir['KVOBlockBinding/**']
+  s.source_files =  'KVOBlockBinding/**/*.*'
 end
