@@ -8,7 +8,7 @@ Vendor::Spec.new do |s|
 
   s.authors      "Ray Hilton"
   s.email        "ray@wirestorm.net"
-  s.description  "Use blocks to observe Objective-C properties using KVO"
+  s.summary      "Use blocks to observe Objective-C properties using KVO"
 
   s.homepage     "https://github.com/rayh/kvo-block-binding"
   s.source       "git@github.com:rayh/kvo-block-binding.git"
